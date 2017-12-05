@@ -1,0 +1,14 @@
+{
+  "name": "nodeslack",
+  "version": "1.0.0",
+  "description": "a node js slack bot for joy and joyness",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "author": "Patrick Duff",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.14.2"
+  }
+}
